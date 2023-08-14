@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2? family= Rajdhani & display=swap');
+@import url('https://fonts.googleapis.com/css2? family= Space+Grotesk & display=swap');
+@import url('https://fonts.googleapis.com/css2? family= Roboto & display=swap');
+
+
+body
+    {
+        margin: 0 ;
+        padding: 0 ;
+        font-family: 'Roboto', sans-serif;
+        font-size: 18px;
+        line-height: 1.5;
+        background-color: black;
+        color: white;
+    }
+
+#div-premiere
+    {
+        height: 100vh;
+        background-image: url("Illustrations/Bathome1.png");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+
